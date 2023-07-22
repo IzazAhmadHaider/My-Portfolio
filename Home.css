@@ -1,0 +1,112 @@
+.skill{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.Cards{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    
+}
+.Card{
+    color: white;
+    width: 250px;
+    height: 400px;
+    background-color: rgb(9,9,9);
+    border-radius: 5px;
+    border:2px solid;
+    border-color: rgb(16, 113, 113);
+    box-shadow: 5000px;
+    text-align: center;
+    margin-left:2px ;
+    margin-right:2px ;
+}
+.Card1{
+    color: white;
+    width: 250px;
+    height: 400px;
+    background-color: rgb(9,9,9);
+    border-radius: 5px;
+    border:2px solid;
+    border-color: rgb(247, 43, 7);
+    box-shadow: 5000px;
+    text-align: center;
+    margin-left:2px ;
+    margin-right:2px ;
+}
+.Card2{
+    color: white;
+    width: 250px;
+    height: 400px;
+    background-color: rgb(9, 9, 9);
+    border-radius: 5px;
+    border:2px solid;
+    border-color: rgb(223, 230, 24);
+    box-shadow: 5000px;
+    text-align: center;
+    margin-left:2px ;
+    margin-right:2px ;
+}
+.htmlhead{
+    color: rgb(16, 113, 113);
+}
+.htmlhead1{
+    color: rgb(247, 43, 7);
+}
+.htmlhead2{
+    color: rgb(223, 230, 24);
+}
+.prg1{
+    color: rgb(48, 197, 197);
+}
+.Card progress {
+    border-radius: 7px; 
+    width: 80%;
+    height: 12px;
+    /* margin-left: -11.5%; */
+    /* box-shadow: 1px 1px 4px rgba( 0, 0, 0, 0.2 ); */
+  }
+  .Card progress::-webkit-progress-bar {
+    background-color: white;
+    border-radius: 7px;
+  }
+  .Card progress::-webkit-progress-value {
+    background-color:rgb(48, 197, 197);
+    border-radius: 7px;
+    /* box-shadow: 1px 1px 5px 3px rgba( 255, 0, 0, 0.8 ); */
+  }
+
+  .Card1 progress {
+    border-radius: 7px; 
+    width: 80%;
+    height: 12px;
+    /* margin-left: -11.5%; */
+    /* box-shadow: 1px 1px 4px rgba( 0, 0, 0, 0.2 ); */
+  }
+  .Card1 progress::-webkit-progress-bar {
+    background-color: white;
+    border-radius: 7px;
+  }
+  .Card1 progress::-webkit-progress-value {
+    background-color:rgb(247, 43, 7);
+    border-radius: 7px;
+    /* box-shadow: 1px 1px 5px 3px rgba( 255, 0, 0, 0.8 ); */
+  }
+  .Card2 progress {
+    border-radius: 7px; 
+    width: 80%;
+    height: 12px;
+    /* margin-left: -11.5%; */
+    /* box-shadow: 1px 1px 4px rgba( 0, 0, 0, 0.2 ); */
+  }
+  .Card2 progress::-webkit-progress-bar {
+    background-color: white;
+    border-radius: 7px;
+  }
+  .Card2 progress::-webkit-progress-value {
+    background-color:rgb(223, 230, 24);
+    border-radius: 7px;
+    /* box-shadow: 1px 1px 5px 3px rgba( 255, 0, 0, 0.8 ); */
+  }
